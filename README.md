@@ -1,2 +1,6 @@
 # info-retrieval
-Information retrieval assignments.
+Information retrieval class assignments.
+
+Word cloud generator
+Web crawler
+Inverted index
